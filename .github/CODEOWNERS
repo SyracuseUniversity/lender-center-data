@@ -1,0 +1,6 @@
+# Every change to the datasets needs approval from a Lender Center data owner.
+#
+# TODO: once the lender-center team exists in the SyracuseUniversity org,
+# replace the line below with the team and remove the leading "#".
+#
+# * @SyracuseUniversity/lender-center
